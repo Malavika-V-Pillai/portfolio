@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8"/>
+        <title>Portfolio</title>
+       <link rel="stylesheet" href="main1">
+        
+    </head>
+    <body>
+        <div id="container">
+        
+        <ul id="nav">
+            <li><a href="index1"><button type="button">HOME</button></a></li>
+            <li><a href="http://www.ceconline.edu"><button type="button">MY COLLEGE</button></a></li>
+            <li><a href="http://www.stellamaristvla.com/"><button type="button">MY SCHOOL</button></a></li></ul>
+        </div>
+        <div id="header">
+        <h1>RESUME</h1>
+        </div>
+        <div id="content">
+        <img src="C:\Users\trishna\Desktop\pc.jpg";
+             style="width:83px;height:106px;">;
+            <div class="content1">
+             <p><h3>MY CAREER OBJECTIVE</h3></p>
+        <p>I want to work in a software company where I can showcase my talent.</p>
+            </div>
+    <div class="content2">
+        <h3>LANGUAGES INCLUDED</h3>
+        <p>ENGLISH</p>
+        <p>MALAYALAM</p></div>
+        <div class="content3">
+        <h3>EDUCATIONAL QUALIFICATION</h3>
+            <table>
+             <tr>
+              <th>COURSE</th>
+              <th>NAME OF INSTITUTE</th>
+              <th>YEAR OF PASSING</th>
+              <th>PERCENTAGE OBTAINED</th>
+             </tr>
+             <tr>
+              <td>X</td>
+              <td>STELLA MARIS ENGLISH MEDIUM SCHOOL</td>
+              <td>2014</td>
+              <td>96%</td>
+             </tr>
+             <tr>
+              <td>XII</td>
+              <td>CHRIST CENTRAL SCHOOL</td>
+              <td>2016</td>
+              <td>80%</td>
+             </tr>
+             <tr>
+              <td>BTECH</td>
+              <td>COLLEGE OF ENGINEERING,CHENGANNUR</td>
+              <td>2020</td>
+              <td>-</td>
+             </tr>
+            </table></div>
+        <div class="content4">
+            <h3>HOBBIES</h3>
+            <p>listening music, gardening, learning new things,ornament making</p></div>
+        <div class="content5">
+            <h3>CONTACT</h3>
+             <h5>ADDRESS</h4>
+            <p>Rohini(Palackal)<br>Valanjavattom P O <br>
+               Thiruvalla<br>PIN:689104</p></div>
+            <div id="contact">
+                <h3>KEEP IN TOUCH!!</h3>
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <a href="#" class="fa fa-facebook"></a>
+                
+            </div>
+                
+    </body>
+
+</html>
+     
+        
+    
+ 
